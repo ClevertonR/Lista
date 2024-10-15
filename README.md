@@ -3,6 +3,8 @@
 O projeto é uma aplicação web de gerenciamento de Listas, que permite aos usuários criar, editar e excluir Lista.
 A aplicação é desenvolvida em JavaScript, HTML e CSS, e utiliza o armazenamento local do navegador para armazenar as Lista.
 
+LINK: ((https://clevertonr.github.io/Lista/Lista.html))
+
 #A aplicação possui as seguintes funcionalidades:
 
 Adicionar Lista: O usuário pode adicionar novas Lista digitando o texto da tarefa e clicando no botão "Adicionar".
